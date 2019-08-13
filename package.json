@@ -1,0 +1,7 @@
+{
+	"package": "fmizzell/lib",
+	"name": "Lib",
+	"description": "A template for php libraries.",
+	"code_climate_badge_id": "123",
+	"code_climate_test_id": "456"
+}
