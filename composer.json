@@ -10,8 +10,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "<*!src_namespace!*>": "src/",
-            "<*!test_namespace!*>": "test/"
+            "<*!src_namespace!*>\\": "src/",
+            "<*!test_namespace!*>\\": "test/"
         }
     },
     "require-dev": {

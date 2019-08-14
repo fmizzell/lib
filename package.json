@@ -1,7 +1,7 @@
 {
 	"package": "fmizzell/lib",
-	"src_namespace": "Lib\\",
-	"test_namespace": "LibTest\\",
+	"src_namespace": "Lib",
+	"test_namespace": "LibTest",
 	"name": "Lib",
 	"description": "A template for php libraries.",
 	"code_climate_badge_id": "123",
