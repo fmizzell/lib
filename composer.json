@@ -1,6 +1,6 @@
 {
     "name": "<*!package!*>",
-    "description": "<*!description!>",
+    "description": "<*!description!*>",
     "license": "GPL-3.0-only",
     "authors": [
         {
@@ -10,8 +10,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lib\\": "src/",
-            "LibTest\\": "test/"
+            "<*!src_namespace!*>": "src/",
+            "<*!test_namespace!*>": "test/"
         }
     },
     "require-dev": {
